@@ -1,4 +1,4 @@
-# Acloud.guru [example](https://read.acloud.guru/building-a-highly-scalable-resilient-rest-api-with-terraform-go-and-aws-94377b90fd24)
+# [Acloud.guru example](https://read.acloud.guru/building-a-highly-scalable-resilient-rest-api-with-terraform-go-and-aws-94377b90fd24)
 
 
 ## Create a small instance with Terraform scripts
